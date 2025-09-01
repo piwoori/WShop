@@ -4,7 +4,7 @@
 ## 🚀 기술 스택
 - **Backend**: Node.js, Express, Prisma, PostgreSQL
 - **Frontend**: Next.js(App Router), Tailwind CSS, React Query
-- **DB**: PostgreSQL (로컬: Homebrew 배포: Supabase/Neon)
+- **DB**: PostgreSQL
 - **배포 예정**: FE → Vercel / BE → Render(Railway)
 
 ---
